@@ -10,6 +10,50 @@ header{
     background-color: black;
     /* padding-top: 20px; */
 }
+header form{
+    position: absolute;
+    left: 1000px;
+    top: 15px;
+    width: 300px;
+    height: 70px;
+    border-radius:20px;
+    background-color: rgba(0, 0, 255, 0);
+    text-align: center;
+}
+header form button{
+    position: absolute;
+    left: 220px;
+    top: 35px;
+    border-radius: 50%;
+    width: 25px;
+    height: 25px;
+}
+header form input{
+    position: absolute;
+    width: 250px;
+    height: 40px;
+    top: 25px;
+    right: 90px;
+    border-radius: 20px;
+    text-align: center;
+    background-color: rgb(33, 33, 70);
+    border: none;
+    color: white;
+    font-size: large;
+}
+header form input:focus{
+    letter-spacing: 2px;
+    transition: .3s;
+}
+
+header form button img{
+    position: absolute;
+    bottom: -2px;
+    left: 0px;
+    width: 25px;
+    height: 25px;
+    cursor: pointer;
+}
 header h2{
     position: absolute;
     left: 620px;
