@@ -3,7 +3,6 @@ document.getElementById("les1").onclick=function les1(){
     const p=document.getElementById("p");
     const frame=document.getElementById("frame");
     h1.innerHTML=("Lesson 1");
-    p.innerHTML=("Lesson 111111");
     frame.setAttribute("src","https://www.youtube.com/embed/Di_RlcpkpN4?list=PLDoPjvoNmBAzlpyFHOaB3b-eubmF0TAV2");
 }
 document.getElementById("les2").onclick=function les1(){
@@ -11,7 +10,7 @@ document.getElementById("les2").onclick=function les1(){
     const p=document.getElementById("p");
     const frame=document.getElementById("frame");
     h1.innerHTML=("Lesson 2");
-    p.innerHTML=("Lesson 222222222222222222222");
+       
     frame.setAttribute("src","https://www.youtube.com/embed/b7s9ePPm9Fg?list=PLDoPjvoNmBAzlpyFHOaB3b-eubmF0TAV2");
 }
 document.getElementById("les3").onclick=function les1(){
@@ -19,7 +18,6 @@ document.getElementById("les3").onclick=function les1(){
     const p=document.getElementById("p");
     const frame=document.getElementById("frame");
     h1.innerHTML=("Lesson 3");
-    p.innerHTML=("Lesson 333333");
     frame.setAttribute("src","https://www.youtube.com/embed/iDulsq5FYt4?list=PLDoPjvoNmBAzlpyFHOaB3b-eubmF0TAV2");
 }
 document.getElementById("les4").onclick=function les1(){
@@ -27,7 +25,6 @@ document.getElementById("les4").onclick=function les1(){
     const p=document.getElementById("p");
     const frame=document.getElementById("frame");
     h1.innerHTML=("Lesson 4");
-    p.innerHTML=("Lesson 4444444444");
     frame.setAttribute("src","https://www.youtube.com/embed/FANYQWDNUhE?list=PLDoPjvoNmBAzlpyFHOaB3b-eubmF0TAV2");
 }
 document.getElementById("les5").onclick=function les1(){
@@ -35,7 +32,6 @@ document.getElementById("les5").onclick=function les1(){
     const p=document.getElementById("p");
     const frame=document.getElementById("frame");
     h1.innerHTML=("Lesson 5");
-    p.innerHTML=("Lesson 5555555555");
     frame.setAttribute("src","https://www.youtube.com/embed/bpfpoooqQcM?list=PLDoPjvoNmBAzlpyFHOaB3b-eubmF0TAV2");
 }
 document.getElementById("les6").onclick=function les1(){
@@ -43,7 +39,6 @@ document.getElementById("les6").onclick=function les1(){
     const p=document.getElementById("p");
     const frame=document.getElementById("frame");
     h1.innerHTML=("Lesson 6");
-    p.innerHTML=("Lesson 6666666666666");
     frame.setAttribute("src","https://www.youtube.com/embed/qtjcN1nnln4?list=PLDoPjvoNmBAzlpyFHOaB3b-eubmF0TAV2");
 }
 document.getElementById("les7").onclick=function les1(){
@@ -51,7 +46,6 @@ document.getElementById("les7").onclick=function les1(){
     const p=document.getElementById("p");
     const frame=document.getElementById("frame");
     h1.innerHTML=("Lesson 7");
-    p.innerHTML=("Lesson 7777777");
     frame.setAttribute("src","https://www.youtube.com/embed/uq7RQmaFQFc?list=PLDoPjvoNmBAzlpyFHOaB3b-eubmF0TAV2");
 }
 document.getElementById("les8").onclick=function les1(){
@@ -59,7 +53,6 @@ document.getElementById("les8").onclick=function les1(){
     const p=document.getElementById("p");
     const frame=document.getElementById("frame");
     h1.innerHTML=("Lesson 8");
-    p.innerHTML=("Lesson 88888888");
     frame.setAttribute("src","https://www.youtube.com/embed/8OEJRjwoNwg?list=PLDoPjvoNmBAzlpyFHOaB3b-eubmF0TAV2");
 }
 document.getElementById("les9").onclick=function les1(){
@@ -67,7 +60,6 @@ document.getElementById("les9").onclick=function les1(){
     const p=document.getElementById("p");
     const frame=document.getElementById("frame");
     h1.innerHTML=("Lesson 9");
-    p.innerHTML=("Lesson 99999999");
     frame.setAttribute("src","https://www.youtube.com/embed/jiheVm_JvN4?list=PLDoPjvoNmBAzlpyFHOaB3b-eubmF0TAV2");
 }
 document.getElementById("les10").onclick=function les1(){
@@ -75,7 +67,6 @@ document.getElementById("les10").onclick=function les1(){
     const p=document.getElementById("p");
     const frame=document.getElementById("frame");
     h1.innerHTML=("Lesson 10");
-    p.innerHTML=("Lesson 10101010101010");
     frame.setAttribute("src","https://www.youtube.com/embed/2yAA1YbF8IA?list=PLDoPjvoNmBAzlpyFHOaB3b-eubmF0TAV2");
 }
 document.getElementById("les11").onclick=function les1(){
@@ -83,7 +74,7 @@ document.getElementById("les11").onclick=function les1(){
     const p=document.getElementById("p");
     const frame=document.getElementById("frame");
     h1.innerHTML=("Lesson 11");
-    p.innerHTML=("Lesson 222222222222222222222");
+       
     frame.setAttribute("src","https://www.youtube.com/embed/aUmLt6fz8GQ?list=PLDoPjvoNmBAzlpyFHOaB3b-eubmF0TAV2");
 }
 document.getElementById("les12").onclick=function les1(){
@@ -91,7 +82,7 @@ document.getElementById("les12").onclick=function les1(){
     const p=document.getElementById("p");
     const frame=document.getElementById("frame");
     h1.innerHTML=("Lesson 12");
-    p.innerHTML=("Lesson 222222222222222222222");
+       
     frame.setAttribute("src","https://www.youtube.com/embed/H7QHTpgmNlM?list=PLDoPjvoNmBAzlpyFHOaB3b-eubmF0TAV2");
 }
 document.getElementById("les13").onclick=function les1(){
@@ -99,7 +90,7 @@ document.getElementById("les13").onclick=function les1(){
     const p=document.getElementById("p");
     const frame=document.getElementById("frame");
     h1.innerHTML=("Lesson 13");
-    p.innerHTML=("Lesson 222222222222222222222");
+       
     frame.setAttribute("src","https://www.youtube.com/embed/lou2rLOIHr0?list=PLDoPjvoNmBAzlpyFHOaB3b-eubmF0TAV2");
 }
 document.getElementById("les14").onclick=function les1(){
@@ -107,7 +98,7 @@ document.getElementById("les14").onclick=function les1(){
     const p=document.getElementById("p");
     const frame=document.getElementById("frame");
     h1.innerHTML=("Lesson 14");
-    p.innerHTML=("Lesson 222222222222222222222");
+       
     frame.setAttribute("src","https://www.youtube.com/embed/X2jzWwmy3S4?list=PLDoPjvoNmBAzlpyFHOaB3b-eubmF0TAV2");
 }
 document.getElementById("les15").onclick=function les1(){
@@ -115,7 +106,7 @@ document.getElementById("les15").onclick=function les1(){
     const p=document.getElementById("p");
     const frame=document.getElementById("frame");
     h1.innerHTML=("Lesson 15");
-    p.innerHTML=("Lesson 222222222222222222222");
+       
     frame.setAttribute("src","https://www.youtube.com/embed/ZD262gzOeok?list=PLDoPjvoNmBAzlpyFHOaB3b-eubmF0TAV2");
 }
 document.getElementById("les16").onclick=function les1(){
@@ -123,7 +114,7 @@ document.getElementById("les16").onclick=function les1(){
     const p=document.getElementById("p");
     const frame=document.getElementById("frame");
     h1.innerHTML=("Lesson 16");
-    p.innerHTML=("Lesson 222222222222222222222");
+       
     frame.setAttribute("src","https://www.youtube.com/embed/6ifupgr0vB8?list=PLDoPjvoNmBAzlpyFHOaB3b-eubmF0TAV2");
 }
 document.getElementById("les17").onclick=function les1(){
@@ -131,7 +122,7 @@ document.getElementById("les17").onclick=function les1(){
     const p=document.getElementById("p");
     const frame=document.getElementById("frame");
     h1.innerHTML=("Lesson 17");
-    p.innerHTML=("Lesson 222222222222222222222");
+       
     frame.setAttribute("src","https://www.youtube.com/embed/-_UbIg1VyM0?list=PLDoPjvoNmBAzlpyFHOaB3b-eubmF0TAV2");
 }
 document.getElementById("les18").onclick=function les1(){
@@ -139,7 +130,7 @@ document.getElementById("les18").onclick=function les1(){
     const p=document.getElementById("p");
     const frame=document.getElementById("frame");
     h1.innerHTML=("Lesson 18");
-    p.innerHTML=("Lesson 222222222222222222222");
+       
     frame.setAttribute("src","https://www.youtube.com/embed/ynZabsx9k20?list=PLDoPjvoNmBAzlpyFHOaB3b-eubmF0TAV2");
 }
 document.getElementById("les19").onclick=function les1(){
@@ -147,7 +138,7 @@ document.getElementById("les19").onclick=function les1(){
     const p=document.getElementById("p");
     const frame=document.getElementById("frame");
     h1.innerHTML=("Lesson 19");
-    p.innerHTML=("Lesson 222222222222222222222");
+       
     frame.setAttribute("src","https://www.youtube.com/embed/KxIEyYQw4oI?list=PLDoPjvoNmBAzlpyFHOaB3b-eubmF0TAV2");
 }
 document.getElementById("next").onclick=function next(){
