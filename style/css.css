@@ -9,6 +9,8 @@ body{
     display: inline-block;
     width: 30%;
     background-color: blue;
+    height: 100vh;
+    overflow: scroll;
 }
 .lesson button{
     width: 100%;
@@ -54,7 +56,7 @@ body{
 }
 .content #next{
     position: absolute;
-    top: 1100px;
+    top: 600px;
     left: 1250px;
     width: 60px;
     height: 60px;
@@ -63,7 +65,7 @@ body{
 }
 .content #back{
     position: absolute;
-    top: 1100px;
+    top: 600px;
     left: 450px;
     width: 60px;
     height: 60px;
